@@ -4,11 +4,6 @@
 
 ## 系統介紹影片
 
-<video controls width="600">
-  <source src=".video/video.mp4" type="video/mp4">
-  你的瀏覽器不支持 HTML5 影片標籤。
-</video>
-
 ## 檔案結構
 
 - **app/**: 根目錄，包含所有應用程式的檔案。
