@@ -4,10 +4,13 @@
 
 ## 系統介紹影片
 
+
 <video controls width="600">
-  <source src=".video/video.mp4" type="video/mp4">
-  你的瀏覽器不支持 HTML5 影片標籤。
+https://github.com/user-attachments/assets/778affc4-c820-4936-b3df-4512ef4db19c
 </video>
+
+https://github.com/user-attachments/assets/778affc4-c820-4936-b3df-4512ef4db19c
+
 
 ## 檔案結構
 
