@@ -161,8 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-
-.MOV
-.mp4
-.pt
-.cfg
+# 忽略影片與模型檔案
+*.MOV
+*.mp4
+*.pt
+*.cfg
