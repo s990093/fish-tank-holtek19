@@ -13,7 +13,7 @@ const HomePage: React.FC = () => {
             <video
               autoPlay
               muted
-              src="http://localhost:8001/live"
+              src="http://49.213.238.75:8001/live"
               className="w-[800px] h-[300px] rounded-md transform origin-center"
             >
               您的瀏覽器不支援 video 標籤。

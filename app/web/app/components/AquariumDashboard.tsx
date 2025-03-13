@@ -47,7 +47,7 @@ const AquariumDashboard: React.FC = () => {
 
   // 魚數量 WebSocket
   const { lastJsonMessage: fishMessage, readyState: fishReadyState } =
-    useWebSocket("ws://49.213.238.75:8000/ws/fish", {
+    useWebSocket("ws://49.213.238.75:8001/ws/fish", {
       onOpen: () => setFishError(null),
       onError: (error) => {
         setFishError("魚數量 WebSocket 連接失敗");
